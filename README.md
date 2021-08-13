@@ -9,3 +9,6 @@
 - The server must be able to display the string pretty quickly. By quickly we mean that if you think it is too long, then it is probably too long (hint: 1 second for 100 characters is COLOSSAL)
 - Your server should be able to receive strings from several clients in a row, without needing to be restarted.
 - You can only use the two signals SIGUSR1 and SIGUSR2.
+
+![minitalk](https://user-images.githubusercontent.com/51109408/129360769-11a520a6-6662-4609-9cca-e7a10cac2515.png)
+
