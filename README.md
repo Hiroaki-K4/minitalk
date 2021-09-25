@@ -10,6 +10,9 @@
 - Your server should be able to receive strings from several clients in a row, without needing to be restarted.
 - You can only use the two signals SIGUSR1 and SIGUSR2.
 
+<br>
+
+# My score
 ![minitalk](https://user-images.githubusercontent.com/51109408/129360769-11a520a6-6662-4609-9cca-e7a10cac2515.png)
 
 # How to build
